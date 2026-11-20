@@ -65,7 +65,7 @@ An interactive educational platform designed to make cybersecurity and computer 
 
 **Technology Stack:** JavaScript · Cloudflare Workers · Cloudflare D1
 
-🔗 [CyberLab — Live Application](https://cyberlab2027.pages.dev)
+🔗 [CyberLab — Live Application](https://cyberlab27.pages.dev) · [GitHub Repository](https://github.com/hossainabirdev/CyberLab)
 
 ### 02. ChatBox — Real-Time Communication Platform
 
