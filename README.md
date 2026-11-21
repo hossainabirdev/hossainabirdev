@@ -11,6 +11,10 @@ AI, cybersecurity, cloud, and creative production are my additional strengths an
 
 I enjoy learning through hands-on projects, experimenting with emerging technologies, and combining engineering with creativity.
 
+🌐 **Portfolio:** [mdabirhossain.pages.dev](https://mdabirhossain.pages.dev)
+
+✅ **Open to Opportunities:** Internships · Remote Jobs · Freelance Projects
+
 ---
 
 ## 👨‍💻 Areas of Work & Expertise
@@ -52,38 +56,63 @@ I enjoy learning through hands-on projects, experimenting with emerging technolo
 
 I enjoy turning ideas into functional applications and interactive digital products. Here are some of my current projects.
 
-### 01. CyberLab — Cybersecurity & Computer Science Learning Platform
+### 01. CyberLab — Cybersecurity & Computer Science Learning Platform ⭐ Flagship
 
-An interactive educational platform designed to make cybersecurity and computer science learning more engaging through structured lessons, progressive levels, practical labs, missions, and CTF challenges.
+An interactive educational platform designed to make cybersecurity and computer science learning more engaging through structured lessons, progressive levels, practical labs, missions, and CTF challenges. Every lesson is written like a textbook chapter, with a live terminal beside the content.
 
 **Key Features**
 - 333 Learning Lessons
 - 32 Progressive Levels
-- Interactive Practical Labs
-- Security Missions and CTF Challenges
+- 29 Practical Labs
+- 16 Missions
+- 19 CTF Challenges
+- 6 Languages
 - Progressive Web App (PWA)
 
 **Technology Stack:** JavaScript · Cloudflare Workers · Cloudflare D1
 
-🔗 [CyberLab — Live Application](https://cyberlab27.pages.dev) · [GitHub Repository](https://github.com/hossainabirdev/CyberLab)
+🔗 [CyberLab — Live Application](https://cyberlab27.pages.dev)
 
-### 02. ChatBox — Real-Time Communication Platform
+[![CyberLab](https://github-readme-stats.vercel.app/api/pin/?username=hossainabirdev&repo=CyberLab&bg_color=FAF6EE&title_color=0B3D2E&text_color=4A4A42&icon_color=A8842C&border_color=E5DCC3)](https://github.com/hossainabirdev/CyberLab)
 
-A real-time communication application combining messaging, social features, voice communication, and interactive experiences.
+### 02. ChatBox — Real-Time Communication Platform ⭐ Flagship
+
+A real-time messaging PWA — the best of WhatsApp, Messenger, Instagram and Snapchat in one app, plus what none of them have: 13 games inside your chats, Watch Together, and group games you can spectate live.
 
 **Key Features**
 - Real-time Messaging
 - Group Conversations
 - Stories and Social Features
 - Voice Calling
-- Interactive Games
+- 13 In-Chat Games
+- Watch Together
+- Group Games You Can Spectate Live
 - Progressive Web App (PWA)
 
-**Technology Stack:** JavaScript · Supabase · WebRTC
+**Technology Stack:** JavaScript · Supabase · WebRTC · Cloudflare Pages
 
-🔗 [ChatBox — Live Application](https://chatbox-41j.pages.dev)
+🔗 [ChatBox — Live Application](https://chatbox01.pages.dev)
 
-### 03. Sunset Island — Multiplayer 3D Game
+[![ChatBox](https://github-readme-stats.vercel.app/api/pin/?username=hossainabirdev&repo=ChatBox&bg_color=FAF6EE&title_color=0B3D2E&text_color=4A4A42&icon_color=A8842C&border_color=E5DCC3)](https://github.com/hossainabirdev/ChatBox)
+
+### 03. MiniDB — My Own Database Engine
+
+My own database engine, built from scratch in pure Python — no SQLite. Transactions, a real B-tree index, JOINs, GROUP BY, ALTER TABLE and a TCP server. Built section by section to understand how real engines work.
+
+**Key Features**
+- 88/88 Tests Passing
+- Transactions
+- Real B-Tree Index
+- INNER JOIN, GROUP BY / HAVING, DISTINCT
+- ALTER TABLE
+- Studio Web Viewer
+- TCP Server
+
+**Technology Stack:** Python (pure standard library)
+
+[![MiniDB](https://github-readme-stats.vercel.app/api/pin/?username=hossainabirdev&repo=minidb&bg_color=FAF6EE&title_color=0B3D2E&text_color=4A4A42&icon_color=A8842C&border_color=E5DCC3)](https://github.com/hossainabirdev/minidb)
+
+### 04. Sunset Island — Multiplayer 3D Game
 
 A multiplayer 3D experience featuring a shared interactive world, real-time player presence, and in-game communication.
 
@@ -91,17 +120,9 @@ A multiplayer 3D experience featuring a shared interactive world, real-time play
 
 🔗 [Sunset Island — Live Application](https://sunset-island-game.pages.dev)
 
-### 04. Liliput: Two Shores — 3D Simulation Game
-
-An in-development simulation project focused on interactive environments, world-building, game systems, and immersive gameplay experiences.
-
-**Status:** In Development
-
-**Technology Stack:** Godot
-
 ### 05. WebByAbir — Web Development
 
-A web development initiative focused on creating websites and digital experiences for restaurants, cafés, bakeries, shops, and small businesses.
+A web development initiative focused on creating websites and digital experiences for restaurants, cafés, bakeries, shops, and small businesses. Free homepage demo first; the client only pays after they love the design.
 
 **Technology Stack:** HTML · CSS · JavaScript
 
@@ -169,7 +190,6 @@ A Bangla educational and explainer channel focused on technology, AI, history, a
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
 
 ### Creative & Production Skills
 
@@ -191,12 +211,11 @@ A Bangla educational and explainer channel focused on technology, AI, history, a
 | WebRTC | Voice Communication Features in ChatBox |
 | Cloudflare Workers & D1 | CyberLab Backend |
 | SQL / PostgreSQL | Database Integration and Management |
-| Python | Programming Practice and Kaggle ML Experiments |
+| Python | MiniDB Database Engine and Kaggle ML Experiments |
 | C | University Programming Coursework |
 | Git & GitHub | Version Control and Repository Management — Developing |
 | AI-Assisted Development | Software Development and Creative Workflows |
 | Cybersecurity | CyberLab and Security Learning Labs |
-| Godot | Learning Through Liliput: Two Shores |
 | Video Production | Video Editing, Motion Graphics and Explainer Content |
 
 ## 📚 Currently Learning & Improving
@@ -211,33 +230,79 @@ I am continuously strengthening my Computer Science foundation and expanding my 
 - Operating Systems
 
 **Software Engineering**
-- Backend Engineering
+- Backend Engineering & API Design
 - Software Architecture
-- API Design and Integration
 - Git and Collaborative Development
 - Software Testing and Debugging
 
 **Advanced Technology**
 - Cloud Computing
 - Cybersecurity and Ethical Hacking
-- Artificial Intelligence
-- Machine Learning
+- Artificial Intelligence & ML
 - Distributed Systems
 
 ---
 
 ## 🔬 Research Interests
 
-I am interested in exploring research at the intersection of cybersecurity, artificial intelligence, and critical infrastructure protection.
+I am interested in exploring research across artificial intelligence, data, algorithms, and emerging technologies.
 
 **Areas of Interest**
-- Intrusion Detection Systems (IDS)
-- Industrial Control Systems (ICS) Security
-- Industrial Network Security
-- SWaT Dataset
-- AI/ML Applications in Cybersecurity
+- Artificial Intelligence
+- Data Analysis
+- Algorithms & Problem Solving
+- Research Methodology
+- Emerging Technologies
 
 These are current research interests that I aim to develop through further academic learning and practical research.
+
+---
+
+## 💼 Experience
+
+**Founder & Web Developer** — WebByAbir · Freelance Web Studio · 2026 – Present
+Freelance web studio. Fast, modern websites for restaurants, cafés, bakeries and shops — free homepage demo first, payment only after the client loves the design.
+
+**YouTube Content Creator** — English-language Channel · Content Creation · Self-directed
+Built and grew an English-language YouTube channel to around 4,000 subscribers — self-taught video editing and AI animation, planned, produced and published independently.
+
+**Scout** — Bangladesh Scouts · School · 2018 – 2022
+About 4 years of Scouting during school life — community service and organisational skills.
+
+**BNCC Member** — Bangladesh National Cadet Corps · College
+Member of the Bangladesh National Cadet Corps in college — discipline, teamwork, responsibility.
+
+---
+
+## 🏅 Certifications
+
+**PTE Academic — Overall 65**
+Issued: 31 March 2026 · Valid until 31 March 2028
+Score breakdown — L64 · R60 · S58 · W74
+
+**Kaggle — Dataset Creator Badge**
+Issued: November 2026
+Published dataset — abir-ai-epoch30
+
+---
+
+## 🌍 Languages
+
+- **English** — Fluent
+- **Spanish** — Learning
+- **Bangla** — Native
+- **Urdu** — Conversational
+- **Hindi** — Conversational
+
+---
+
+## 🎯 Activities
+
+- **Scouting** — School life, 2018–2022, about 4 years: community service and organisational skills.
+- **BNCC** — Member in college.
+- **Volunteering** — Flood relief and tree plantation drives.
+- **Sports** — Cricket, football, chess.
+- **Class Representative** — Representing my classmates and coordinating with faculty.
 
 ---
 
@@ -254,12 +319,6 @@ B.A.F. Shaheen College, Kurmitola, Bangladesh
 **Secondary School Certificate (SSC)**
 B H Khan School and College, Bangladesh
 2023
-
----
-
-## 🌍 English Proficiency
-
-**PTE Academic — Overall Score: 65 (2026)**
 
 ---
 
@@ -280,10 +339,11 @@ I value engineering quality, practical problem-solving, responsible AI adoption,
 
 ## 📫 Connect With Me
 
+- **Portfolio:** [mdabirhossain.pages.dev](https://mdabirhossain.pages.dev)
 - **Email:** [hossainabirdev@gmail.com](mailto:hossainabirdev@gmail.com)
 - **GitHub:** [github.com/hossainabirdev](https://github.com/hossainabirdev)
 - **LinkedIn:** [linkedin.com/in/abir-hossain-dev](https://www.linkedin.com/in/abir-hossain-dev)
-- **Portfolio / Web Development:** [WebByAbir](https://webbyabir.pages.dev)
+- **Web Development:** [WebByAbir](https://webbyabir.pages.dev)
 - **Location:** Bangladesh
 
 ---
