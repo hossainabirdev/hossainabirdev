@@ -56,7 +56,26 @@ I enjoy learning through hands-on projects, experimenting with emerging technolo
 
 I enjoy turning ideas into functional applications and interactive digital products. Here are some of my current projects.
 
-### 01. CyberLab — Cybersecurity & Computer Science Learning Platform ⭐ Flagship
+### 01. MiniDB — My Own Database Engine
+
+My own database engine, built from scratch in pure Python — no SQLite. Transactions, a real B-tree index, JOINs, GROUP BY, ALTER TABLE and a TCP server. Built section by section to understand how real engines work.
+
+**Key Features**
+- 88/88 Tests Passing
+- Transactions
+- Real B-Tree Index
+- INNER JOIN, GROUP BY / HAVING, DISTINCT
+- ALTER TABLE
+- Studio Web Viewer
+- TCP Server
+
+**Technology Stack:** Python (pure standard library)
+
+🔗 [GitHub Repository](https://github.com/hossainabirdev/minidb)
+
+[![MiniDB](https://github-readme-stats.vercel.app/api/pin/?username=hossainabirdev&repo=minidb&bg_color=FAF6EE&title_color=0B3D2E&text_color=4A4A42&icon_color=A8842C&border_color=E5DCC3)](https://github.com/hossainabirdev/minidb)
+
+### 02. CyberLab — Cybersecurity & Computer Science Learning Platform ⭐ Flagship
 
 An interactive educational platform designed to make cybersecurity and computer science learning more engaging through structured lessons, progressive levels, practical labs, missions, and CTF challenges. Every lesson is written like a textbook chapter, with a live terminal beside the content.
 
@@ -69,13 +88,13 @@ An interactive educational platform designed to make cybersecurity and computer 
 - 6 Languages
 - Progressive Web App (PWA)
 
-**Technology Stack:** JavaScript · Cloudflare Workers · Cloudflare D1
+**Technology Stack:** TypeScript · React · Cloudflare Workers · Cloudflare D1
 
-🔗 [CyberLab — Live Application](https://cyberlab27.pages.dev)
+🔗 [CyberLab — Live Application](https://cyberlab27.pages.dev) · [GitHub Repository](https://github.com/hossainabirdev/CyberLab)
 
 [![CyberLab](https://github-readme-stats.vercel.app/api/pin/?username=hossainabirdev&repo=CyberLab&bg_color=FAF6EE&title_color=0B3D2E&text_color=4A4A42&icon_color=A8842C&border_color=E5DCC3)](https://github.com/hossainabirdev/CyberLab)
 
-### 02. ChatBox — Real-Time Communication Platform ⭐ Flagship
+### 03. ChatBox — Real-Time Communication Platform ⭐ Flagship
 
 A real-time messaging PWA — the best of WhatsApp, Messenger, Instagram and Snapchat in one app, plus what none of them have: 13 games inside your chats, Watch Together, and group games you can spectate live.
 
@@ -91,26 +110,9 @@ A real-time messaging PWA — the best of WhatsApp, Messenger, Instagram and Sna
 
 **Technology Stack:** JavaScript · Supabase · WebRTC · Cloudflare Pages
 
-🔗 [ChatBox — Live Application](https://chatbox01.pages.dev)
+🔗 [ChatBox — Live Application](https://chatbox01.pages.dev) · [GitHub Repository](https://github.com/hossainabirdev/ChatBox)
 
 [![ChatBox](https://github-readme-stats.vercel.app/api/pin/?username=hossainabirdev&repo=ChatBox&bg_color=FAF6EE&title_color=0B3D2E&text_color=4A4A42&icon_color=A8842C&border_color=E5DCC3)](https://github.com/hossainabirdev/ChatBox)
-
-### 03. MiniDB — My Own Database Engine
-
-My own database engine, built from scratch in pure Python — no SQLite. Transactions, a real B-tree index, JOINs, GROUP BY, ALTER TABLE and a TCP server. Built section by section to understand how real engines work.
-
-**Key Features**
-- 88/88 Tests Passing
-- Transactions
-- Real B-Tree Index
-- INNER JOIN, GROUP BY / HAVING, DISTINCT
-- ALTER TABLE
-- Studio Web Viewer
-- TCP Server
-
-**Technology Stack:** Python (pure standard library)
-
-[![MiniDB](https://github-readme-stats.vercel.app/api/pin/?username=hossainabirdev&repo=minidb&bg_color=FAF6EE&title_color=0B3D2E&text_color=4A4A42&icon_color=A8842C&border_color=E5DCC3)](https://github.com/hossainabirdev/minidb)
 
 ### 04. Sunset Island — Multiplayer 3D Game
 
@@ -213,7 +215,7 @@ A Bangla educational and explainer channel focused on technology, AI, history, a
 | SQL / PostgreSQL | Database Integration and Management |
 | Python | MiniDB Database Engine and Kaggle ML Experiments |
 | C | University Programming Coursework |
-| Git & GitHub | Version Control and Repository Management — Developing |
+| Git & GitHub | Version Control and Repository Management — Confident |
 | AI-Assisted Development | Software Development and Creative Workflows |
 | Cybersecurity | CyberLab and Security Learning Labs |
 | Video Production | Video Editing, Motion Graphics and Explainer Content |
@@ -222,39 +224,11 @@ A Bangla educational and explainer channel focused on technology, AI, history, a
 
 I am continuously strengthening my Computer Science foundation and expanding my engineering capabilities.
 
-**Computer Science Foundations**
 - Data Structures & Algorithms
 - Database Management Systems
-- Object-Oriented Programming
-- Computer Networks
-- Operating Systems
-
-**Software Engineering**
-- Backend Engineering & API Design
-- Software Architecture
-- Git and Collaborative Development
-- Software Testing and Debugging
-
-**Advanced Technology**
-- Cloud Computing
-- Cybersecurity and Ethical Hacking
-- Artificial Intelligence & ML
-- Distributed Systems
-
----
-
-## 🔬 Research Interests
-
-I am interested in exploring research across artificial intelligence, data, algorithms, and emerging technologies.
-
-**Areas of Interest**
-- Artificial Intelligence
-- Data Analysis
-- Algorithms & Problem Solving
-- Research Methodology
-- Emerging Technologies
-
-These are current research interests that I aim to develop through further academic learning and practical research.
+- Backend Engineering
+- Cybersecurity
+- Artificial Intelligence & Machine Learning
 
 ---
 
@@ -288,7 +262,7 @@ Published dataset — abir-ai-epoch30
 
 ## 🌍 Languages
 
-- **English** — Fluent
+- **English** — Professional working proficiency (PTE Academic: Overall 65)
 - **Spanish** — Learning
 - **Bangla** — Native
 - **Urdu** — Conversational
