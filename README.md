@@ -262,8 +262,8 @@ Published dataset — abir-ai-epoch30
 
 ## 🌍 Languages
 
-- **English** — Professional working proficiency (PTE Academic: Overall 65)
-- **Spanish** — Learning
+- **English** — Confident Professional working proficiency (PTE Academic: Overall 65)
+- **Spanish** — Basic 
 - **Bangla** — Native
 - **Urdu** — Conversational
 - **Hindi** — Conversational
