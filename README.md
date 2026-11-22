@@ -237,7 +237,7 @@ I am continuously strengthening my Computer Science foundation and expanding my 
 **Founder & Web Developer** — WebByAbir · Freelance Web Studio · 2026 – Present
 Freelance web studio. Fast, modern websites for restaurants, cafés, bakeries and shops — free homepage demo first, payment only after the client loves the design.
 
-**YouTube Content Creator** — English-language Channel · Content Creation · Self-directed
+**YouTube Content Creator** — Bengali-language Channel · Content Creation · Self-directed
 Built and grew an English-language YouTube channel to around 4,000 subscribers — self-taught video editing and AI animation, planned, produced and published independently.
 
 **Scout** — Bangladesh Scouts · School · 2018 – 2022
@@ -262,7 +262,7 @@ Published dataset — abir-ai-epoch30
 
 ## 🌍 Languages
 
-- **English** — Confident Professional working proficiency (PTE Academic: Overall 65)
+- **English** — Confident/ Professional working proficiency (PTE Academic: Overall 65)
 - **Spanish** — Basic 
 - **Bangla** — Native
 - **Urdu** — Conversational
