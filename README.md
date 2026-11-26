@@ -234,7 +234,7 @@ I am continuously strengthening my Computer Science foundation and expanding my 
 
 ## 💼 Experience
 
-**Founder & Web Developer** — WebByAbir · Freelance Web Studio · 2026 – Present
+**Founder & Web Developer** — WebByAbir · Freelance Web Studio · 2026 – Present.
 Freelance web studio. Fast, modern websites for restaurants, cafés, bakeries and shops — free homepage demo first, payment only after the client loves the design.
 
 **YouTube Content Creator** — Bengali-language Channel · Content Creation · Self-directed
