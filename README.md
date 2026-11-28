@@ -164,7 +164,7 @@ Alongside software development, I actively explore AI-powered creative workflows
 
 **Creative Project:** Abir Decodes
 
-A Bangla educational and explainer channel focused on technology, AI, history, and documentary-style storytelling.
+A Bangla educational and explainer channel focused on Technology, AI, history, and documentary-style storytelling.
 
 🔗 [YouTube — Abir Decodes](https://www.youtube.com/@Abir-Decodes)
 
